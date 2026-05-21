@@ -136,13 +136,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 Thus the project to develop Course Reservation and Exam Registration system was developed using Star UML Software is done successfully.
 
-
-
-
-
-
-
-# RESULT
-
-Thus the project to develop Course Reservation and Exam Registration system was developed using Star UML Software is done successfully.
-
